@@ -1,3 +1,14 @@
+---
+title: ハッカソンはいいぞ。
+published: 2025-12-25
+description: ""
+image: ""
+tags: ["ハッカソン"]
+category: "Tech"
+draft: false
+lang: ""
+---
+
 :::message
 この記事は、[GDGoC Japan Advent Calendar 2025](https://qiita.com/advent-calendar/2025/gdgoc-japan)の25日目の記事です。
 メリークリスマス！
