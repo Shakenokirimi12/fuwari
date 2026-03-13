@@ -1,6 +1,6 @@
 ---
 title: 会津大生のための思想の強いPCの選び方
-published: 2025-02-05
+published: 2026-03-13
 description: ""
 image: ""
 tags: ["会津大", "PC", "パソコン", "パソコン選び", "宗教"]
