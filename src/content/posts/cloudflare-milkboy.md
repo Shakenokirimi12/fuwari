@@ -1,5 +1,5 @@
 ---
-title: cloudflare-milkboy
+title: ミルクボーイ風漫才「Cloudflare」
 published: 2026-06-29
 description: ""
 image: ""
